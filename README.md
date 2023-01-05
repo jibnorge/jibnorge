@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jibin-george-226b49176" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jibin-george-226b49176" height="30" width="40" /></a>
-<a href="https://kaggle.com/jibingeorge161" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="jibingeorge161" height="30" width="40" /></a>
+<a href="https://kaggle.com/jibingeorge161" target="blank"><img align="center" src="https://github.com/jibnorge/jibnorge/blob/main/images/kaggle.png" alt="jibingeorge161" height="30" width="40" /></a>
 <a href="https://medium.com/@jibnorge" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@jibnorge" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/jibin_george" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jibin_george" height="30" width="40" /></a>
 </p>
