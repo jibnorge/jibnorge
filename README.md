@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Mathematics and Deep Learning**
 
-- 📫 How to reach me **jibingeroge7337@gmail.com**
+- 📫 How to reach me **jibingeorge7337@gmail.com**
 
 - ⚡ Fun fact **I am a professional gamer.**
 
