@@ -5,8 +5,6 @@
 
 - 👯 I’m looking to collaborate on [waffy_storystay](https://github.com/amalanil46/waffy_storystay)
 
-- 📝 I regularly write articles on [https://medium.com/@jibnorge](https://medium.com/@jibnorge)
-
 - 💬 Ask me about **Mathematics and Deep Learning**
 
 - 📫 How to reach me **jibingeorge7337@gmail.com**
