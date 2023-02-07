@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Jibin George</h1>
 <h3 align="center">An Undergrad in Mathematics passionate about Data Science</h3>
 
-- 🌱 I’m currently learning **a six month course on Data Science and Machine Learning**
+- 🌱 Pursuing **a six month course on Data Science and Machine Learning**
 
-- 👯 I’m looking to collaborate on [waffy_storystay](https://github.com/amalanil46/waffy_storystay)
+- 👯 Looking for collaboration with [waffy_storystay](https://github.com/amalanil46/waffy_storystay)
 
 - 💬 Ask me about **Mathematics and Deep Learning**
 
-- 📫 How to reach me **jibingeorge7337@gmail.com**
+- 📫 Reach out on **jibingeorge7337@gmail.com**
 
 - ⚡ Fun fact **I am a professional gamer.**
 
