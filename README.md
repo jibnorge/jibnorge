@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jibin George</h1>
 <h3 align="center">An Undergrad in Mathematics passionate about Data Science</h3>
 
-- 🌱 Pursuing **a six month course on Data Science and Machine Learning**
-
 - 👯 Looking for collaboration with [waffy_storystay](https://github.com/amalanil46/waffy_storystay)
 
 - 💬 Ask me about **Mathematics and Deep Learning**
