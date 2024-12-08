@@ -5,6 +5,8 @@
 
 - 👯 Looking for collaboration with [waffy_storystay](https://github.com/amalanil46/waffy_storystay)
 
+- 📊 Check out my Dashboards on [Tableau](https://public.tableau.com/app/profile/jibin.george2730/vizzes)
+
 - 💬 Ask me about **Mathematics and Deep Learning**
 
 - 📫 Reach out on **jibingeorge7337@gmail.com**
