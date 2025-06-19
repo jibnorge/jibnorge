@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **Julia**
 
-- 👯 Looking for collaboration with [waffy_storystay](https://github.com/amalanil46/waffy_storystay)
-
 - 📊 Check out my Dashboards on [Tableau](https://public.tableau.com/app/profile/jibnorge/vizzes)
 
 - 💬 Ask me about **Mathematics and Deep Learning**
